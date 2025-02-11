@@ -20,7 +20,6 @@ The script is written in Python. The required software and libraries are as foll
 - The index of the document, a vector representation, is generated. That index is used as a query engine.
 - Index is saved due to the long time it takes to create. In future uses, it is simply read and used.
 - The user is asked to provide a question about the topic.
-- Actually, it is still possible to ask a question about anything. It is still an LLM.
 - The query engine will search for similar entries in the document. If the question is relevant, it is excepted to find that information.
 
 ## Final Look
