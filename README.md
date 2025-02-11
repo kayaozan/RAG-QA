@@ -1,5 +1,3 @@
-WORK IN PROGRESS
-
 # Retrieval Augmented Generation (RAG) Question Answering
 This project demonstrate how to build a question answering system with Retrieval Augmented Generation capabilities. 
 
